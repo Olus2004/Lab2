@@ -6,5 +6,5 @@ Tạo cơ sở dữ liệu cho ứng dụng quản lý TODO sau:
 - Lưu ý một người có thể làm nhiều task
 
 EER Diagram
------
+----
 ![EER Diagram](/EERDiagram.png)
