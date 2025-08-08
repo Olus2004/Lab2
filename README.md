@@ -10,3 +10,4 @@ EER Diagram
 ![EER Diagram](/EERDiagram.png)
 ----
 PROCEDURE Tạo task với quyền "Admin"
+<img width="724" height="660" alt="image" src="https://github.com/user-attachments/assets/b62bc9a6-0b6a-450a-9768-6d130579d0c8" />
