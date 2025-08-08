@@ -16,5 +16,5 @@ Procedure Tạo task với quyền "user"
 <img width="744" height="601" alt="image" src="https://github.com/user-attachments/assets/6fbbb6c6-98e9-443a-8aab-f89482ed40e3" />
 -
 Procedure Cập nhật trạng thái
-<img width="801" height="580" alt="image" src="https://github.com/user-attachments/assets/25413424-936d-4fb3-984e-ff86aba3ed0f" />
+<img width="737" height="565" alt="image" src="https://github.com/user-attachments/assets/8f862bb3-5ae1-4bb8-aa2a-995313db1e15" />
 -
