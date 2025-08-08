@@ -13,7 +13,7 @@ Procedure Tạo task với quyền "admin"
 <img width="730" height="554" alt="image" src="https://github.com/user-attachments/assets/805abc20-4246-4eec-a581-226193715460" />
 -
 Procedure Tạo task với quyền "user"
-<img width="733" height="587" alt="image" src="https://github.com/user-attachments/assets/d9c32601-1396-4484-aa16-694fc1c58fae" />
+<img width="726" height="557" alt="image" src="https://github.com/user-attachments/assets/a2653a54-dce9-4bde-b5e3-cdbf55760a79" />
 -
 Procedure Cập nhật trạng thái
 <img width="737" height="565" alt="image" src="https://github.com/user-attachments/assets/8f862bb3-5ae1-4bb8-aa2a-995313db1e15" />
