@@ -10,11 +10,11 @@ EER Diagram
 ![EER Diagram](/EERDiagram.png)
 ----
 Procedure Tạo task với quyền "admin"
-<img width="753" height="523" alt="image" src="https://github.com/user-attachments/assets/8c839829-55b9-4996-84cf-d1f1d8ab6b64" />
+<img width="716" height="594" alt="image" src="https://github.com/user-attachments/assets/595204eb-87e0-40ae-92fc-21ef75f45660" />
 -
 Procedure Tạo task với quyền "user"
-<img width="751" height="512" alt="image" src="https://github.com/user-attachments/assets/5f7cbe70-aeb7-4974-8a6b-66f547396de6" />
+<img width="744" height="601" alt="image" src="https://github.com/user-attachments/assets/6fbbb6c6-98e9-443a-8aab-f89482ed40e3" />
 -
 Procedure Cập nhật trạng thái
-<img width="733" height="533" alt="image" src="https://github.com/user-attachments/assets/64fd5b80-71c7-41ba-b73d-3be3233b3cf0" />
+<img width="801" height="580" alt="image" src="https://github.com/user-attachments/assets/25413424-936d-4fb3-984e-ff86aba3ed0f" />
 -
