@@ -18,7 +18,7 @@ Dữ liệu Mission
 -
 Dữ liệu bảng Task
 <br>
-<img width="535" height="553" alt="image" src="https://github.com/user-attachments/assets/2d997e22-a664-4bc0-a21b-3bdd30aa05f6" />
+<img width="945" height="334" alt="image" src="https://github.com/user-attachments/assets/40b4dcf7-be86-4a9c-a0f9-9e2b86d50da1" />
 -
 
 EER Diagram
