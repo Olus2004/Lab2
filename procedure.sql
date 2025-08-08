@@ -15,24 +15,13 @@ CREATE PROCEDURE ManageTask(
 BEGIN
     IF p_action = 'create' THEN
         IF (SELECT role_id FROM Employees WHERE user_id = p_user_create) = 'admin' THEN
-            IF EXISTS (
-                SELECT 1 FROM Task 
-                WHERE task_name = p_task_name 
-                AND task_description = p_description 
-                AND user_create = p_user_create 
-                AND date_start = p_date_start 
-                AND date_end = p_date_end
-            ) THEN
-                SET p_message = 'Task đã tồn tại với thông tin tương tự.';
-            ELSE
-                INSERT INTO Task (task_name, task_description, user_create, date_start, date_end)
-                VALUES (p_task_name, p_description, p_user_create, p_date_start, p_date_end);
+            INSERT INTO Task (task_name, task_description, user_create, date_start, date_end)
+            VALUES (p_task_name, p_description, p_user_create, p_date_start, p_date_end);
 
-                INSERT INTO Mission (task_id, user_id, mission_status, update_time)
-                VALUES (LAST_INSERT_ID(), p_user_assign, 'pending', NOW());
+            INSERT INTO Mission (task_id, user_id, mission_status, update_time)
+            VALUES (LAST_INSERT_ID(), p_user_assign, 'pending', NOW());
 
-                SET p_message = 'Task được tạo và giao thành công.';
-            END IF;
+            SET p_message = 'Task được tạo và giao thành công.';
         ELSE
             SET p_message = 'Chỉ admin mới có thể tạo task.';
         END IF;
