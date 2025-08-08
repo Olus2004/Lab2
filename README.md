@@ -9,12 +9,15 @@ Tạo cơ sở dữ liệu cho ứng dụng quản lý TODO sau:
 ----
 
 Dữ liệu bảng Employees
+<br>
 <img width="702" height="234" alt="image" src="https://github.com/user-attachments/assets/264831bc-4a8f-48d2-bbb7-4009cb0401d3" />
 -
 Dữ liệu Mission
+<br>
 <img width="535" height="553" alt="image" src="https://github.com/user-attachments/assets/795eedc1-21a1-42ae-a8bd-9feeb71e82ba" />
 -
 Dữ liệu bảng Task
+<br>
 <img width="535" height="553" alt="image" src="https://github.com/user-attachments/assets/2d997e22-a664-4bc0-a21b-3bdd30aa05f6" />
 -
 
