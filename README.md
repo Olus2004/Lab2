@@ -7,6 +7,6 @@ Tạo cơ sở dữ liệu cho ứng dụng quản lý TODO sau:
 
 EER Diagram
 ----
-![EER Diagram](/EERDiagra.png)
+![EER Diagram](/EERDiagram.png)
 ----
 
